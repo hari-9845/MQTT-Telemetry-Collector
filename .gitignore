@@ -1,0 +1,57 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build folders
+bin/
+obj/
+
+# ASP.NET Core publish output
+publish/
+
+# NuGet
+*.nupkg
+packages/
+
+# Angular / Node.js
+node_modules/
+dist/
+.angular/
+
+# Logs
+*.log
+logs/
+
+# Environment files
+.env
+.env.*
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Coverage reports
+coverage/
+
+# Temporary files
+tmp/
+temp/
+
+# Visual Studio
+.vs/
+
+# Build folders
+bin/
+obj/
+
+# Angular
+node_modules/
+.angular/
+dist/
+
+# User files
+*.user
+*.suo
